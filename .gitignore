@@ -1,0 +1,23 @@
+# node
+node_modules/
+npm-debug.log*
+
+# expo
+.expo/
+.expo-shared/
+
+# mac/windows
+.DS_Store
+Thumbs.db
+
+# android
+android/.gradle/
+android/app/build/
+*.apk
+
+# IDE
+.vscode/
+.idea/
+
+# misc
+*.log
